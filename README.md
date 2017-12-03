@@ -23,3 +23,9 @@ steam64id rank_name
 steam64id rank_name
 steam64id rank_name
 ```
+
+===
+
+## Disclaimer
+
+yes, the v1's code is garbage. gmodstore coding standards made money :v
