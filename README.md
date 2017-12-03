@@ -24,7 +24,7 @@ steam64id rank_name
 steam64id rank_name
 ```
 
-===
+---
 
 ## Disclaimer
 
