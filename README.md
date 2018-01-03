@@ -12,7 +12,7 @@ as seen on [GModstore](https://gmodstore.com/scripts/view/3133).
 - Drag and drop the directory "cryo" onto your webserver.
 
 - CHANGE "cryo/change perms" PERMISSIONS TO 777 recursively.
-![https://i.atomik.info/17337a.png]()
+![example](https://i.atomik.info/17337a.png)
 
 - **That's it**. Navigate to it in your browser and set it up!
 
