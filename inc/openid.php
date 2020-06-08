@@ -829,3 +829,4 @@ class LightOpenID
         return $this->getSregAttributes();
     }
 }
+}
